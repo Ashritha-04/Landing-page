@@ -1,2 +1,2 @@
-# OCTANET_AUGUST
-This repository contains task 1 which is about a Landing Page
+Landing Page
+This repository contains a basic Landing Page made by using HTML and CSS
